@@ -1,0 +1,6 @@
+Connect
+exec EnableEraseAllFlashBanks
+LoadFile /home/wasanw/Work/001_TESA/003_Device_Info_mTLS/ws/psoc_e84_mqtt_mtls/build/app_combined.hex 0 reset
+Reset
+Go
+Exit

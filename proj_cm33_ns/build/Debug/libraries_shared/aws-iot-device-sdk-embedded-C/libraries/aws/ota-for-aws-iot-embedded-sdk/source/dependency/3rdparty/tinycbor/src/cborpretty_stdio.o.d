@@ -1,0 +1,6 @@
+/home/wasanw/Work/001_TESA/003_Device_Info_mTLS/ws/psoc_e84_mqtt_mtls/proj_cm33_ns/build/Debug/libraries_shared/aws-iot-device-sdk-embedded-C/libraries/aws/ota-for-aws-iot-embedded-sdk/source/dependency/3rdparty/tinycbor/src/cborpretty_stdio.o: \
+ /home/wasanw/Work/001_TESA/003_Device_Info_mTLS/ws/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/ota-for-aws-iot-embedded-sdk/source/dependency/3rdparty/tinycbor/src/cborpretty_stdio.c \
+ /home/wasanw/Work/001_TESA/003_Device_Info_mTLS/ws/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/ota-for-aws-iot-embedded-sdk/source/dependency/3rdparty/tinycbor/src/cbor.h \
+ /home/wasanw/Work/001_TESA/003_Device_Info_mTLS/ws/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/ota-for-aws-iot-embedded-sdk/source/dependency/3rdparty/tinycbor/src/tinycbor-version.h
+/home/wasanw/Work/001_TESA/003_Device_Info_mTLS/ws/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/ota-for-aws-iot-embedded-sdk/source/dependency/3rdparty/tinycbor/src/cbor.h:
+/home/wasanw/Work/001_TESA/003_Device_Info_mTLS/ws/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/ota-for-aws-iot-embedded-sdk/source/dependency/3rdparty/tinycbor/src/tinycbor-version.h:
